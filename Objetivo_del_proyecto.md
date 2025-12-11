@@ -171,7 +171,7 @@ Identificar recursos necesarios: hardware para VM, licencias de Windows Server, 
 Analizar requisitos funcionales y técnicos: rangos de IP, subredes, nombres de dominio, estructura de la base de datos.  
 Diseñar la arquitectura del laboratorio virtual con Windows Server: roles a instalar, configuración de red y seguridad.  
 Elaborar diagramas de flujo de asignación de IP, resolución de nombres y registro en la base de datos.
-
+<img width="1183" height="681" alt="Captura desde 2025-12-11 11-48-35" src="https://github.com/user-attachments/assets/7e8e96fe-e70c-4122-af2f-323f32c4200b" />
 ### Desarrollo e implementación  
 Instalar Windows Server en la máquina virtual y configurar roles de DHCP y DNS.  
 Configurar la base de datos SQL Server Express y crear las tablas necesarias para registrar leases y registros DNS.  
